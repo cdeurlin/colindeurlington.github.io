@@ -92,3 +92,8 @@ html {
 .card:hover {
     transform: translateY(-5px);
 }
+
+.container {
+    width: min(1100px, 90%);
+    margin: 0 auto;
+}
