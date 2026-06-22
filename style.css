@@ -56,6 +56,18 @@ h2 {
     margin-bottom: 2rem;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
+.btn {
+    transition: 0.3s ease;
+}
+
+.btn:hover {
+    transform: translateY(-2px);
+}
+
 :root {
     --bg: #0f172a;
     --surface: #1e293b;
