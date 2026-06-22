@@ -8,6 +8,11 @@ body {
     font-family: 'Inter', sans-serif;
     line-height: 1.6;
     color: #333;
+    background:
+        radial-gradient(circle at top right,
+            rgba(59,130,246,0.15),
+            transparent 35%),
+        var(--bg);
 }
 
 header {
