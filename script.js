@@ -3,31 +3,15 @@ const pages = {
 home: `
 <h1>Welcome</h1>
 
-<p>
+<p>Hello!</p>
 
-Welcome to my academic website.
+<h1>About Me</h1>
 
-</p>
+<h3>Research Interests</h3>
+<p>Political Economy • Experimental Economics • Game Theory • Network Analysis</p>
 
-<h2>Research Interests</h2>
-
-<p>
-
-Political Economy • Experimental Economics • Game Theory • Network Analysis
-
-</p>
-
-<h2>News</h2>
-
-<ul>
-
-<li>Working paper accepted.</li>
-
-<li>Teaching ECON 101 this Fall.</li>
-
-<li>Conference presentation in October.</li>
-
-</ul>
+<h3>Bio</h3>
+<p>...</p>
 `
 ,
 
