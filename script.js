@@ -22,27 +22,17 @@ research:`
 
 <h1>Research</h1>
 
-<h2>Working Papers</h2>
+<h2>Dissertation</h2>
 
-<p>
+<p>Title of Paper One</p>
 
-Title of Paper One
+<p>Title of Paper Two</p>
 
-</p>
+<br>
 
-<p>
+<h2>Other Papers</h2>
 
-Title of Paper Two
-
-</p>
-
-<h2>Publications</h2>
-
-<p>
-
-Journal Article One
-
-</p>
+<p>Title of Paper</p>
 
 `,
 
@@ -51,7 +41,6 @@ teaching:`
 <h1>Teaching</h1>
 
 <h3>Courses</h3>
-
 <ul>
 <li>ECON 13 - Global Economics</li>
 <li>ECON 17 -- Economics of Religion</li>
@@ -59,8 +48,9 @@ teaching:`
 <li>...</li>
 </ul>
 
-<h3>Testimonials</h3>
+<br>
 
+<h3>Testimonials</h3>
 <ul>
 <li>"He's great!"</li>
 <li>"The very best!"</li>
