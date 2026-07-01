@@ -42,7 +42,7 @@ teaching:`
 
 <h3>Courses</h3>
 <ul>
-<li>ECON 13 - Global Economics</li>
+<li>ECON 13 - Global Economics (list quarters...)</li>
 <li>ECON 17 -- Economics of Religion</li>
 <li>ECON ? - Econometrics</li>
 <li>...</li>
