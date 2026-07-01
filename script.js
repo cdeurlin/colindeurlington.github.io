@@ -74,22 +74,41 @@ contact:`
 <h1>Contact</h1>
 
 <p>
-
-Department of Economics
-
+If you'd like to discuss research, collaboration, or have a question,
+please send me a message below.
 </p>
 
-<p>
+<form id="contactForm">
 
-University Name
+    <label>Name</label>
+    <input
+        type="text"
+        name="name"
+        placeholder="Your name"
+        required>
 
-</p>
+    <label>Email</label>
+    <input
+        type="email"
+        name="email"
+        placeholder="you@example.com"
+        required>
 
-<p>
+    <label>Message</label>
 
-email@university.edu
+    <textarea
+        name="message"
+        rows="8"
+        placeholder="Write your message..."
+        required></textarea>
 
-</p>
+    <button type="submit">
+        Send Message
+    </button>
+
+</form>
+
+<div id="successMessage"></div>
 
 `
 
@@ -110,5 +129,33 @@ button.classList.add("active");
 content.innerHTML=pages[button.dataset.page];
 
 });
+
+});
+
+document
+.getElementById("contactForm")
+.addEventListener("submit", async function(e){
+
+    e.preventDefault();
+
+    const response = await fetch(
+        "https://formspree.io/f/YOUR_FORM_ID",
+        {
+            method:"POST",
+            body:new FormData(this),
+            headers:{
+                Accept:"application/json"
+            }
+        }
+    );
+
+    if(response.ok){
+
+        document.getElementById("successMessage").innerHTML =
+            "<p>Thank you! Your message has been sent.</p>";
+
+        this.reset();
+
+    }
 
 });
