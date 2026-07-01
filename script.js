@@ -30,7 +30,7 @@ Political Economy • Development • Labor Economics • Public Finance
 </ul>
 ,
 
-research:`
+research:
 
 <h1>Research</h1>
 
@@ -56,7 +56,7 @@ Journal Article One
 
 </p>
 
-`,
+,
 
 teaching:`
 
