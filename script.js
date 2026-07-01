@@ -1,6 +1,6 @@
 const pages = {
 
-home: `
+home: 
 <h1>Welcome</h1>
 
 <p>
@@ -28,7 +28,7 @@ Political Economy • Development • Labor Economics • Public Finance
 <li>Conference presentation in October.</li>
 
 </ul>
-`,
+,
 
 research:`
 
