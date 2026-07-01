@@ -13,7 +13,7 @@ Welcome to my academic website.
 
 <p>
 
-Political Economy • Development • Labor Economics • Public Finance
+Political Economy • Experimental Economics • Game Theory • Network Analysis
 
 </p>
 
