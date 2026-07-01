@@ -96,6 +96,15 @@ please send me a message below.
         name="email"
         placeholder="you@example.com"
         required>
+        
+    <br>
+    <label>Subject</label>
+    <br>
+    <input
+        type="subject"
+        name="subject"
+        placeholder="Write your subject..."
+        required>
 
     <br>
     <label>Message</label>
