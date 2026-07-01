@@ -7,8 +7,11 @@ home: `
 
 <h1>About Me</h1>
 
+<h3>Fields</h3>
+<p>Political Economy • Experimental Economics • Game Theory</p>
+
 <h3>Research Interests</h3>
-<p>Political Economy • Experimental Economics • Game Theory • Network Analysis</p>
+<p>Trade • Economic Forecasting • Cyber Security • Network Analysis</p>
 
 <h3>Bio</h3>
 <p>...</p>
