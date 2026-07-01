@@ -47,27 +47,22 @@ teaching:`
 
 <h1>Teaching</h1>
 
-<h2>Current Courses</h2>
+<h3>Courses</h3>
 
-<p>
+<ul>
+<li>ECON 13 - Global Economics</li>
+<li>ECON 17 -- Economics of Religion</li>
+<li>ECON ? - Econometrics</li>
+<li>...</li>
+</ul>
 
-ECON 101
+<h3>Testimonials</h3>
 
-</p>
-
-<p>
-
-Graduate Econometrics
-
-</p>
-
-<h2>Previous Courses</h2>
-
-<p>
-
-Development Economics
-
-</p>
+<ul>
+<li>"He's great!"</li>
+<li>"The very best!"</li>
+<li>"Everybody says so!"</li>
+</ul>
 
 `,
 
