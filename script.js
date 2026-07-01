@@ -81,27 +81,32 @@ please send me a message below.
 <form id="contactForm">
 
     <label>Name</label>
+    <br>
     <input
         type="text"
         name="name"
         placeholder="Your name"
         required>
 
+    <br>
     <label>Email</label>
+    <br>
     <input
         type="email"
         name="email"
         placeholder="you@example.com"
         required>
 
+    <br>
     <label>Message</label>
-
+    <br>
     <textarea
         name="message"
         rows="8"
         placeholder="Write your message..."
         required></textarea>
 
+    <br>
     <button type="submit">
         Send Message
     </button>
