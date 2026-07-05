@@ -55,8 +55,11 @@ teaching:`
 
 <h3>Testimonials</h3>
 <ul>
-<li>"He's great!"</li>
-<li>"The very best!"</li>
+<li>"He reviewed the material of lecture in a format that was clear and easy to
+comprehend and sometimes added further information/examples so we could
+understand concepts better. He took the time to help us throughout the quarter
+with our projects and provide us feedback every step of the way."</li>
+<li>"style"</li>
 <li>"Everybody says so!"</li>
 </ul>
 
