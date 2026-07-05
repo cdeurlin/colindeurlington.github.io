@@ -259,8 +259,28 @@ flex-direction:column;
 height:auto;
 
 }
+
+/* ---------- research page stuff ---------- */
+.columns {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+  }
+
+  .column {
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      background-color: #f9f9f9;
+  }
+
+  @media (max-width: 768px) {
+      .columns {
+          grid-template-columns: 1fr;
+      }
+  }
   
-/* ---------- contact page stuff ----------*/
+/* ---------- contact page stuff ---------- */
   form{
 
 display:flex;
