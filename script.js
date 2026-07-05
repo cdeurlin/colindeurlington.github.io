@@ -129,6 +129,24 @@ confident in the course material after going to his weekly discussions. I also l
 how he made a separate Canvas space for his discussion sections to keep things
 organized in one space from the main Canvas course space. Keep it up and thank
 you so much Colin!"</li>
+<li>"Colin was very good at explaining difficult concepts so that they were
+understandable. He would take his time. He was also open to constructive criticism
+and ideas for the discussion section."</li>
+<li>"One of the best TAs I've had. Even though the material covered was not new to me,
+I appreciated Colin's ability to slow down and take an in-depth approach to each
+chapter."</li>
+<li>"I wish he had more time available. Colin was one of the best TA's I ever had"</li>
+<li>"Colin explains material well which helps us know how to do the homework.
+Besides his discussion section, he is very responsive to students' emails and once
+made feedback about my answer to a question on the homework. His emails
+answering to my questions are well-written with very detailed explanation. Colin
+even answered to my question on the weekend. Huge respect to his hard work and
+patience!"</li>
+<li>"The TA had strong methods of showcasing course material visually and preparing
+concise notes that successfully contributed to the understanding of students. The
+TA was well prepared for student questions and encouraged them especially before
+an exam. The TA was very accessible throughout the course as they were able to
+offer additional resources or office hours when needed."</li>
 </ul>
 
 `,
