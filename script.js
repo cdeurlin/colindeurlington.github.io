@@ -124,6 +124,7 @@ please send me a message below.
     <input
         type="text"
         name="name"
+        cols="12"
         placeholder="Your name"
         required>
 
@@ -133,6 +134,7 @@ please send me a message below.
     <input
         type="email"
         name="email"
+        cols="12"
         placeholder="you@example.com"
         required>
         
@@ -142,6 +144,7 @@ please send me a message below.
     <input
         type="subject"
         name="subject"
+        cols="12"
         placeholder="Write your subject..."
         required>
 
@@ -151,7 +154,7 @@ please send me a message below.
     <textarea
         name="message"
         rows="8"
-        cols="50"
+        cols="24"
         placeholder="Write your message..."
         required></textarea>
 
