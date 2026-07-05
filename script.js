@@ -42,10 +42,13 @@ teaching:`
 
 <h3>Courses</h3>
 <ul>
-<li>ECON 13 - Global Economics (list quarters...)</li>
-<li>ECON 17 -- Economics of Religion</li>
-<li>ECON ? - Econometrics</li>
-<li>...</li>
+<li>ECON 13 - Global Economy (Spring 2021, Spring 2022, Winter 2023)</li>
+<li>ECON 17 -- Economics of Religion (Fall 2020, Winter 2022, Fall 2022)</li>
+<li>ECON 107 - Economics of Asymmetric Information (Spring 2024)</li>
+<li>ECON 115 - Behavioral Economics (Spring 2023)</li>
+<li>ECON 122A - Applied Econometrics I (Fall 2021, Fall 2023, Winter 2024)</li>
+<li>ECON 142A -- Industrial Organization (Winter 2021)</li>
+<li>ECON 167 -- International Trade & Commercial Policy (Summer II 2021)</li>
 </ul>
 
 <br>
