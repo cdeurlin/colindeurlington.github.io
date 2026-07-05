@@ -151,6 +151,7 @@ please send me a message below.
     <textarea
         name="message"
         rows="8"
+        cols="50"
         placeholder="Write your message..."
         required></textarea>
 
