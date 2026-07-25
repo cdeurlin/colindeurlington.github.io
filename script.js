@@ -19,6 +19,47 @@ work:`
 
 <p>Lots of great work done by dis guy!</p>
 
+<h3>Office of Advanced Analytics, U.S. Government</h3>
+
+<p>Analytic Methodologist | Jan 2025 — Present</p>
+<ul>
+<li>Work with a wide range of partners to develop rigorous methodologies and models that derive
+data-driven insights for their specific problems.</li>
+<li>Internally published multiple self-initiated research papers on a wide-range of topics. These papers
+entailed advanced modeling and data analysis, and involved using big data, network analysis, and
+time series econometrics.</li>
+<li>Involved in mentoring graduate fellows, including helping to define and scope research questions,
+providing data and coding support, and editing their written products into clear and concise analysis
+for policy makers.</li>
+</ul>
+
+<p>Analytic Fellow | Jun 2023 — Sep 2023</p>
+<ul>
+<li>Applied network analysis and clustering algorithms to a dataset of two million dyadic relationships.
+Internally published an article summarizing this analysis.</li>
+</ul>
+
+<h3>University of California, Irvine</h3>
+
+<p>Junior Specialist | ? — Present</p>
+
+<p>Teaching Assistant | Oct 2020 — Jun 2024</p>
+<ul>
+<li>Developing lesson plans for discussion sections, presenting difficult material in a clear and compre-
+hensive format, and providing individual level support to both struggling and interested students.</li>
+</ul>
+
+<p>Verano Residents’ Council Treasurer | ? — ?</p>
+
+<h3>Farm Credit Administration, U.S. Government</h3>
+
+<p>Associate Examiner Intern | Jun 2019 — Sep 2019</p>
+
+<h3>Other</h3>
+
+<p>Legislative Intern, 35th State Assembly District of California | Apr 2018 — Nov 2018</p>
+<p>Accounting Intern, Town of Truckee | Nov 2015 — Sep 2017</p>
+
 `,
 
 research:`
