@@ -35,7 +35,7 @@ research:`
 
 <div class="row">
     <div class="column">
-        <h2>Defense and Connectivity of Weakest-Link Networks</h2>
+        <h3>Defense and Connectivity of Weakest-Link Networks</h2>
         <p>
             I study a model of weakest-link network defense. In this model, the defender
             determines the internal accessibility of a valuable asset and allocates defensive resources
@@ -50,8 +50,8 @@ research:`
     </div>
 
     <div class="column">
-        <h2>An Experimental Study of Conjectural Equilibrium: Limited Feedback in a Threshold Public Good Game</h2>
-        <p href="https://osf.io/pbk6w/overview">OSF: pre-registration, experimental software oTree code, and data analysis R code</p>
+        <h3>An Experimental Study of Conjectural Equilibrium: Limited Feedback in a Threshold Public Good Game</h2>
+        <a href="https://osf.io/pbk6w/overview">OSF: pre-registration, experimental software oTree code, and data analysis R code</a>
         <p>
             We provide an experimental test of the Conjectural Equilibrium concept in a
             threshold public good game with limited feedback. Consistent with our predictions,
@@ -66,7 +66,7 @@ research:`
     </div>
 
     <div class="column">
-        <h2>Cybersecurity measures and incident frequency: Evidence from the UK</h2>
+        <h3>Cybersecurity measures and incident frequency: Evidence from the UK</h2>
         <p>
             In this article, I empirically examine the relationship between organizations’ cybersecurity measures 
             and their experienced level of incident frequency. Cybersecurity is an increasingly relevant
