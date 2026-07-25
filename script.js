@@ -283,6 +283,8 @@ document
 
         this.reset();
 
-    }
+    };
+
+  location.reload();  
 
 });
