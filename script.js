@@ -24,7 +24,7 @@ research:`
 
 <h2>Dissertation</h2>
 
-<div class="columns">
+<div class="row">
     <div class="column">
         <h2>Defense and Connectivity of Weakest-Link Networks</h2>
         <p>
