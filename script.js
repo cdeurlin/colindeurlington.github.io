@@ -78,7 +78,8 @@ research:`
 
 <h2 style="text-align:center">Other Working Papers</h2>
 
-<p>C. Deurlington, E. Fisher, “Dynamic Level-k Thinking in the El Farol Bar Problem” (Working Paper)</p>
+<p>C. Deurlington, E. Fisher, “Dynamic Level-k Thinking in the El Farol Bar Problem”</p>
+<a href="https://cdeurlington.shinyapps.io/El_Farol_Trial/">Supporting application<a>
 
 `,
 
