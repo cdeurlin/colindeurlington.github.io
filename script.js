@@ -126,7 +126,7 @@ research:`
 
 teaching:`
 
-<h2 style="text-align:center">TA Courses</h2>
+<h1 style="text-align:center">Teaching Assistant</h1>
 
 <br>
 
