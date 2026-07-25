@@ -51,14 +51,11 @@ hensive format, and providing individual level support to both struggling and in
 
 <p>Verano Residents’ Council Treasurer | ? — ?</p>
 
-<h3>Farm Credit Administration, U.S. Government</h3>
-
-<p>Associate Examiner Intern | Jun 2019 — Sep 2019</p>
-
 <h3>Other</h3>
 
-<p>Legislative Intern, 35th State Assembly District of California | Apr 2018 — Nov 2018</p>
-<p>Accounting Intern, Town of Truckee | Nov 2015 — Sep 2017</p>
+<p><b>Farm Credit Administration</b>Associate Examiner Intern | Jun 2019 — Sep 2019</p>
+<p><b>35th State Assembly District of California</b> | Legislative Intern | Apr 2018 — Nov 2018</p>
+<p><b>Town of Truckee</b> | Accounting Intern | Nov 2015 — Sep 2017</p>
 
 `,
 
