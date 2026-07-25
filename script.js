@@ -101,10 +101,6 @@ teaching:`
 
 <h3 style="text-align:center">Select Testimonials</h3>
 <ul>
-<li>"I wish he had more time available. Colin was one of the best TA's I ever had"</li>
-<li>"Colin was very good at explaining difficult concepts so that they were
-understandable. He would take his time. He was also open to constructive criticism
-and ideas for the discussion section."</li>
 <li>"He made the lecture material in his discussion very easily understandable and
 summarized. I think his powerpoints were very concise yet detailed to include
 main points from each chapter, and his explanations and examples in class were
@@ -114,52 +110,19 @@ confident in the course material after going to his weekly discussions. I also l
 how he made a separate Canvas space for his discussion sections to keep things
 organized in one space from the main Canvas course space. Keep it up and thank
 you so much Colin!"</li>
-<li>"There is not much he can improve on in my opinion. He is very well spoken and
-knows what he is talking about. He prints out a few sheet of paper for him to look
-at which I assume is his personal notes so that when he is providing the visual aids
-he does not forget to mention anything. He also hears everybody's thoughts out and
-admits when he does not know the answer, but says he will look into it and get
-back to us, which he does."</li>
-<li>-----</li>
-<li>"The TA is willing to listen to the students' request about what we want to review for
-the final which I find is something that other TAs did not really do. He is really
-patient when it comes to explaining the concepts and he will make sure his
-students understand what he is doing step by step which really helps me to
-understand what is going on. He is willing to use really clear explanations to help
-us gasps the idea of what the regression interpretation should be like. I really like
-his discussion styles because he is able to review the concepts with students by
-talking about it one more time given that when students are listening to the lecture
-the first time, it can be really hard to understand what is going on. He is really
-thoughtful as a TA and on time on office hour which I really appreciate."</li>
 <li>"Colin did a great job of going more in-depth to what the professor was teaching and
 made sure to go over important topics again. He did an amazing job breaking down
 concepts and his notes during the discussion were very easy to follow along with."</li>
-<li>"The logic of the TA is very clear and easy to understand, and the weekly discussion
-section is well prepared."</li>
-<li>"He made his expectations clear for the homework and project, communicated the
-professor's expectations clearly, and was always willing to help. He's very
-understanding and a nice person as well!"</li>
-<li>"Colin provided slides on the material taught in lecture that he reinforces in every
-discussion section. Personally, I feel he hit every point that was taught in lecture by
-Professor Sarraf. He even goes as far as to provide visual aids in the form of
-drawings on the white board in the class room. This allowed us to visually see the
-point he is trying to get across and if anyone does not understand the drawing they
-can ask quesitons."</li>
 <li>"One of the best TAs I've had. Even though the material covered was not new to me,
 I appreciated Colin's ability to slow down and take an in-depth approach to each
 chapter."</li>
-<li>"Colin explains material well which helps us know how to do the homework.
-Besides his discussion section, he is very responsive to students' emails and once
-made feedback about my answer to a question on the homework. His emails
-answering to my questions are well-written with very detailed explanation. Colin
-even answered to my question on the weekend. Huge respect to his hard work and
-patience!"</li>
 <li>"The TA had strong methods of showcasing course material visually and preparing
 concise notes that successfully contributed to the understanding of students. The
 TA was well prepared for student questions and encouraged them especially before
 an exam. The TA was very accessible throughout the course as they were able to
 offer additional resources or office hours when needed."</li>
 </ul>
+<p>Full course evaluations available upon request.</p>
 
 `,
 
