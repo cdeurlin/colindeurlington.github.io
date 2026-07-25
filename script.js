@@ -15,10 +15,6 @@ My primary research interests are in cyber security, international trade, experi
 
 work:`
 
-<h1>Work Experience</h1>
-
-<p>Lots of great work done by dis guy!</p>
-
 <h3 style="text-align:center">Office of Advanced Analytics, U.S. Government</h3>
 
 <ul>
