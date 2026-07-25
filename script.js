@@ -3,7 +3,11 @@ const pages = {
 home: `
 <h1>Welcome</h1>
 
-<p>Hello, thanks for dropping by my website! ...</p>
+<p>
+Hello, thanks for dropping by my website! 
+I received my Economics PhD from the University of California, Irvine in 2024, and have since been working as an economist for the government. 
+My primary research interests are in cyber security, international trade, experimental design, and network analysis.
+</p>
 
 <h1>About Me</h1>
 
@@ -11,9 +15,6 @@ home: `
 
 <h3>Fields</h3>
 <p>Political Economy • Experimental Economics • Game Theory</p>
-
-<h3>Research Interests</h3>
-<p>Trade • Economic Forecasting • Cyber Security • Network Analysis</p>
 
 `
 ,
