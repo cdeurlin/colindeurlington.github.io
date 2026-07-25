@@ -52,9 +52,16 @@ research:`
     <div class="column">
         <h2>Cybersecurity measures and incident frequency: Evidence from the UK</h2>
         <p>
-            Phasellus commodo sapien vitae turpis vulputate, sed consequat
-            ligula malesuada. Aenean hendrerit, ipsum non dictum luctus, velit
-            urna consequat risus, vel pulvinar nibh orci eget urna.
+            In this article, I empirically examine the relationship between organizations’ cybersecurity measures 
+            and their experienced level of incident frequency. Cybersecurity is an increasingly relevant
+            concern for governments, businesses, and individuals. However, despite both rising investment
+            in cybersecurity and frequency of cyber incidents, little research has been done to assess this
+            relationship. Using fixed-effects regressions over multiple thresholds of incident frequency,
+            this paper identifies staff cybersecurity training, data storage rules, and restrictions on
+            personal devices used for work as measures associated with reduced incident frequency.
+            Furthermore, this paper provides a foundational assessment of how cybersecurity measures
+            are associated differently with phishing versus non-phishing incidents, providing a first step
+            in understanding the usefulness of measures in preventing incidents of different severities.
         </p>
     </div>
 </div>
