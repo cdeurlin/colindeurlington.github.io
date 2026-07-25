@@ -84,9 +84,7 @@ research:`
 
 teaching:`
 
-<h1>Teaching</h1>
-
-<h3>TA Courses</h3>
+<h3 style="text-align:center">TA Courses</h3>
 
 <br>
 
@@ -100,13 +98,13 @@ teaching:`
 
 <br>
 
-<h3>Testimonials</h3>
+<h3 style="text-align:center">Testimonials</h3>
 <ul>
-<li>"He reviewed the material of lecture in a format that was clear and easy to
-comprehend and sometimes added further information/examples so we could
-understand concepts better. He took the time to help us throughout the quarter
-with our projects and provide us feedback every step of the way."</li>
-<li>"style"</li>
+// <li>"He reviewed the material of lecture in a format that was clear and easy to
+// comprehend and sometimes added further information/examples so we could
+// understand concepts better. He took the time to help us throughout the quarter
+// with our projects and provide us feedback every step of the way."</li>
+// <li>"style"</li>
 <li>"The TA is willing to listen to the students' request about what we want to review for
 the final which I find is something that other TAs did not really do. He is really
 patient when it comes to explaining the concepts and he will make sure his
