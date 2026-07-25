@@ -31,7 +31,7 @@ research:`
 
 <h1>Research</h1>
 
-<h2>Dissertation</h2>
+<a href="https://escholarship.org/uc/item/4c3845t1#main"><h2 style="text-align:center">Dissertation</h2></a>
 
 <div class="row">
     <div class="column">
