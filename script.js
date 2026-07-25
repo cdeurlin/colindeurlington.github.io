@@ -94,16 +94,17 @@ teaching:`
 
 <h1>Teaching</h1>
 
-<h3>Courses</h3>
-<ul>
-<li><b>Global Economy</b> | UC Irvine ECON 13 | Spring 2021, Spring 2022, Winter 2023</li>
-<li><b>Economics of Religion</b> | UC Irvine ECON 17 | Fall 2020, Winter 2022, Fall 2022</li>
-<li><b>Economics of Asymmetric Information</b> | UC Irvine ECON 107 | Spring 2024</li>
-<li><b>Behavioral Economics</b> | UC Irvine ECON 115 | Spring 2023</li>
-<li><b>Applied Econometrics I</b> | UC Irvine ECON 122A | Fall 2021, Fall 2023, Winter 2024</li>
-<li><b>Industrial Organization</b> | UC Irvine ECON 142A | Winter 2021</li>
-<li><b>International Trade & Commercial Policy</b> | UC Irvine ECON 167 | Summer II 2021</li>
-</ul>
+<h3>TA Courses</h3>
+
+<br>
+
+<p><b>Global Economy</b> | UC Irvine ECON 13 | Spring 2021, Spring 2022, Winter 2023</p>
+<p><b>Economics of Religion</b> | UC Irvine ECON 17 | Fall 2020, Winter 2022, Fall 2022</p>
+<p><b>Economics of Asymmetric Information</b> | UC Irvine ECON 107 | Spring 2024</p>
+<p><b>Behavioral Economics</b> | UC Irvine ECON 115 | Spring 2023</p>
+<p><b>Applied Econometrics I</b> | UC Irvine ECON 122A | Fall 2021, Fall 2023, Winter 2024</p>
+<p><b>Industrial Organization</b> | UC Irvine ECON 142A | Winter 2021</p>
+<p><b>International Trade & Commercial Policy</b> | UC Irvine ECON 167 | Summer II 2021</p>
 
 <br>
 
