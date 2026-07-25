@@ -4,14 +4,14 @@ home: `
 <h1>Welcome</h1>
 
 <p>
-Hello, thanks for dropping by my website! 
-I received my Economics PhD from the University of California, Irvine in 2024, and have since been working as an economist for the government. 
+Hello, thanks for dropping by my website!
+I received my Economics PhD from the University of California, Irvine in 2024, and have since been working as an economist for the US Government. 
 My primary research interests are in cyber security, international trade, experimental design, and network analysis.
 </p>
 
 <h1>About Me</h1>
 
-<p>...</p>
+<p></p>
 
 <h3>Fields</h3>
 <p>Political Economy • Experimental Economics • Game Theory</p>
