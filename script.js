@@ -85,7 +85,7 @@ research:`
 
 teaching:`
 
-<h3 style="text-align:center">TA Courses</h3>
+<h2 style="text-align:center">TA Courses</h2>
 
 <br>
 
@@ -134,68 +134,68 @@ of time for questions, and the amount of time for group collaboration."</i> <b>[
 
 <p style="text-align:center">Full course evaluations available upon request.</p>
 
-`,
-
-contact:`
-
-<h1>Contact</h1>
-
-<p>
-If you'd like to discuss research, collaboration, or have a question,
-please send me a message below.
-</p>
-
-<form id="contactForm">
-
-    <label>Name</label>
-    <br>
-    <input
-        type="text"
-        name="name"
-        cols="12"
-        placeholder="Your name"
-        required>
-
-    <br>
-    <label>Email</label>
-    <br>
-    <input
-        type="email"
-        name="email"
-        cols="12"
-        placeholder="you@example.com"
-        required>
-        
-    <br>
-    <label>Subject</label>
-    <br>
-    <input
-        type="subject"
-        name="subject"
-        cols="12"
-        placeholder="Write your subject..."
-        required>
-
-    <br>
-    <label>Message</label>
-    <br>
-    <textarea
-        name="message"
-        rows="8"
-        cols="24"
-        placeholder="Write your message..."
-        required></textarea>
-
-    <br>
-    <button type="submit">
-        Send Message
-    </button>
-
-</form>
-
-<div id="successMessage"></div>
-
 `
+
+// contact:`
+
+// <h1>Contact</h1>
+
+// <p>
+// If you'd like to discuss research, collaboration, or have a question,
+// please send me a message below.
+// </p>
+
+// <form id="contactForm">
+
+//     <label>Name</label>
+//     <br>
+//     <input
+//         type="text"
+//         name="name"
+//         cols="12"
+//         placeholder="Your name"
+//         required>
+
+//     <br>
+//     <label>Email</label>
+//     <br>
+//     <input
+//         type="email"
+//         name="email"
+//         cols="12"
+//         placeholder="you@example.com"
+//         required>
+        
+//     <br>
+//     <label>Subject</label>
+//     <br>
+//     <input
+//         type="subject"
+//         name="subject"
+//         cols="12"
+//         placeholder="Write your subject..."
+//         required>
+
+//     <br>
+//     <label>Message</label>
+//     <br>
+//     <textarea
+//         name="message"
+//         rows="8"
+//         cols="24"
+//         placeholder="Write your message..."
+//         required></textarea>
+
+//     <br>
+//     <button type="submit">
+//         Send Message
+//     </button>
+
+// </form>
+
+// <div id="successMessage"></div>
+
+// `
 
 }; 
 
