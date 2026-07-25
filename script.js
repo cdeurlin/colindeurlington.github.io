@@ -51,6 +51,7 @@ research:`
 
     <div class="column">
         <h2>An Experimental Study of Conjectural Equilibrium: Limited Feedback in a Threshold Public Good Game</h2>
+        <p href="https://osf.io/pbk6w/overview">OSF: pre-registration, experimental software oTree code, and data analysis R code</p>
         <p>
             We provide an experimental test of the Conjectural Equilibrium concept in a
             threshold public good game with limited feedback. Consistent with our predictions,
