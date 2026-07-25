@@ -268,11 +268,18 @@ height:auto;
   }
 
   .column {
-      padding: 20px;
+      width: 33.33%
+      padding: 10px;
       border: 1px solid #ccc;
       border-radius: 8px;
       background-color: #f9f9f9;
   }
+      
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 
   @media (max-width: 768px) {
       .columns {
