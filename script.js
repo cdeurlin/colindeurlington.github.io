@@ -99,9 +99,9 @@ teaching:`
 
 <br>
 
-<h3 style="text-align:center">Select Testimonials</h3>
+<h2 style="text-align:center">Select Testimonials</h2>
 
-<p><i>"He made the lecture material in his discussion very easily understandable and
+<p style="font-size: 12px;"><i>"He made the lecture material in his discussion very easily understandable and
 summarized. I think his powerpoints were very concise yet detailed to include
 main points from each chapter, and his explanations and examples in class were
 extremely helpful to understand in more simple terms. Colin was a great TA, very
@@ -111,21 +111,21 @@ how he made a separate Canvas space for his discussion sections to keep things
 organized in one space from the main Canvas course space. Keep it up and thank
 you so much Colin!"</i> <b>[Behavioral Economics]</b></p>
 
-<p><i>"Colin did a great job of going more in-depth to what the professor was teaching and
+<p style="font-size: 12px;"><i>"Colin did a great job of going more in-depth to what the professor was teaching and
 made sure to go over important topics again. He did an amazing job breaking down
 concepts and his notes during the discussion were very easy to follow along with."</i> <b>[Applied Econometrics I]</b></p>
 
-<p><i>"One of the best TAs I've had. Even though the material covered was not new to me,
+<p style="font-size: 10px;"><i>"One of the best TAs I've had. Even though the material covered was not new to me,
 I appreciated Colin's ability to slow down and take an in-depth approach to each
 chapter."</i> <b>[Global Economy]</b></p>
 
-<p><i>"The TA had strong methods of showcasing course material visually and preparing
+<p style="font-size: 10px;"><i>"The TA had strong methods of showcasing course material visually and preparing
 concise notes that successfully contributed to the understanding of students. The
 TA was well prepared for student questions and encouraged them especially before
 an exam. The TA was very accessible throughout the course as they were able to
 offer additional resources or office hours when needed."</i> <b>[Economics of Asymmetric Information]</b></p>
 
-<p><i>"I believe that Colin's strong points include bringing up topics in which students
+<p style="font-size: 10px;"><i>"I believe that Colin's strong points include bringing up topics in which students
 have difficulty understanding in their homework and discussing it further in class.
 His presentations are concise and straight to the point, summarizing the focus of
 the lectures of our professor. He also outlines what is expected during the
