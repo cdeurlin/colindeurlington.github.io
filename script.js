@@ -23,11 +23,10 @@ Please reach out with any questions!
 ,
 
 work:`
+<h1 style="text-align:center">Office of Advanced Analytics, U.S. Government</h1>
 
-<h3 style="text-align:center">Office of Advanced Analytics, U.S. Government</h3>
-
-<ul>
 <p>Analytic Methodologist | Jan 2025 — Present</p>
+<ul style="font-size: 12px;">
 <li>Work with a wide range of partners to develop rigorous methodologies and models that derive
 data-driven insights for their specific problems.</li>
 <li>Internally published multiple self-initiated research papers on a wide-range of topics. These papers
@@ -38,27 +37,27 @@ providing data and coding support, and editing their written products into clear
 for policy makers.</li>
 </ul>
 
-<ul>
 <p>Analytic Fellow | Jun 2023 — Sep 2023</p>
+<ul style="font-size: 12px;">
 <li>Applied network analysis and clustering algorithms to a dataset of two million dyadic relationships.
 Internally published an article summarizing this analysis.</li>
 </ul>
 
 <br>
 
-<h3 style="text-align:center">University of California, Irvine</h3>
+<h2 style="text-align:center">University of California, Irvine</h2>
 
 <p>Junior Specialist | ? — Present</p>
 
 <p>Teaching Assistant | Oct 2020 — Jun 2024</p>
-<ul>
+<ul style="font-size: 12px;">
 <li>Developing lesson plans for discussion sections, presenting difficult material in a clear and compre-
 hensive format, and providing individual level support to both struggling and interested students.</li>
 </ul>
 
 <p>Verano Residents’ Council Treasurer | ? — ?</p>
 
-<h3 style="text-align:center">Other</h3>
+<h2 style="text-align:center">Other</h2>
 
 <p><b>Farm Credit Administration</b> | Associate Examiner Intern</p>
 <p><b>35th State Assembly District of California</b> | Legislative Intern</p>
@@ -69,7 +68,7 @@ hensive format, and providing individual level support to both struggling and in
 
 research:`
 
-<h2 style="text-align:center"><a href="https://escholarship.org/uc/item/4c3845t1#main">Dissertation</a></h2>
+<h1 style="text-align:center"><a href="https://escholarship.org/uc/item/4c3845t1#main">Dissertation</a></h1>
 
 <div class="row">
     <div class="column">
