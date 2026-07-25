@@ -154,6 +154,18 @@ display:block;
 
 }
 
+.iconcolumn {
+  float: left;
+  width: 20%;
+  padding: 5px;
+}
+
+.iconrow::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 aside h2{
 
 text-align:center;
