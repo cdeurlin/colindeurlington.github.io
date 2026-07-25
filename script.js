@@ -5,16 +5,10 @@ home: `
 
 <p>
 Hello, thanks for dropping by my website!
-I received my Economics PhD from the University of California, Irvine in 2024, and have since been working as an economist for the US Government. 
+I received my Economics PhD from the University of California, Irvine in 2024, with concentrations in Political Economy, Experimental Economics, and Game Theory. 
+Since graduating, I have been working as an economist for the US Government. 
 My primary research interests are in cyber security, international trade, experimental design, and network analysis.
 </p>
-
-<h1>About Me</h1>
-
-<p></p>
-
-<h3>Fields</h3>
-<p>Political Economy • Experimental Economics • Game Theory</p>
 
 `
 ,
@@ -29,13 +23,11 @@ work:`
 
 research:`
 
-<h1>Research</h1>
-
 <a href="https://escholarship.org/uc/item/4c3845t1#main"><h2 style="text-align:center">Dissertation</h2></a>
 
 <div class="row">
     <div class="column">
-        <h3>Defense and Connectivity of Weakest-Link Networks</h2>
+        <h3 style="text-align:center">Defense and Connectivity of Weakest-Link Networks</h2>
         <p>
             I study a model of weakest-link network defense. In this model, the defender
             determines the internal accessibility of a valuable asset and allocates defensive resources
@@ -50,8 +42,7 @@ research:`
     </div>
 
     <div class="column">
-        <h3>An Experimental Study of Conjectural Equilibrium: Limited Feedback in a Threshold Public Good Game</h2>
-        <a href="https://osf.io/pbk6w/overview">OSF: pre-registration, experimental software oTree code, and data analysis R code</a>
+        <h3 style="text-align:center">An Experimental Study of Conjectural Equilibrium: Limited Feedback in a Threshold Public Good Game</h2>
         <p>
             We provide an experimental test of the Conjectural Equilibrium concept in a
             threshold public good game with limited feedback. Consistent with our predictions,
@@ -63,10 +54,11 @@ research:`
             as a predictive concept. Overall, our findings support a measured approach to using
             the Conjectural Equilibrium concept to obtain predictions in limited-feedback settings.
         </p>
+        <a href="https://osf.io/pbk6w/overview">Pre-registration, experiment software, and data analysis</a>
     </div>
 
     <div class="column">
-        <h3>Cybersecurity measures and incident frequency: Evidence from the UK</h2>
+        <h3 style="text-align:center">Cybersecurity measures and incident frequency: Evidence from the UK</h2>
         <p>
             In this article, I empirically examine the relationship between organizations’ cybersecurity measures 
             and their experienced level of incident frequency. Cybersecurity is an increasingly relevant
@@ -84,7 +76,7 @@ research:`
 
 <br>
 
-<h2>Other Papers</h2>
+<h2 style="text-align:center">Other Working Papers</h2>
 
 <p>C. Deurlington, E. Fisher, “Dynamic Level-k Thinking in the El Farol Bar Problem” (Working Paper)</p>
 
