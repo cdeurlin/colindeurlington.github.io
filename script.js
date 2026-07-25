@@ -23,7 +23,7 @@ work:`
 
 research:`
 
-<a href="https://escholarship.org/uc/item/4c3845t1#main"><h2 style="text-align:center">Dissertation</h2></a>
+<h2 style="text-align:center"><a href="https://escholarship.org/uc/item/4c3845t1#main">Dissertation</a></h2>
 
 <div class="row">
     <div class="column">
