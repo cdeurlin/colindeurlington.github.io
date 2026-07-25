@@ -69,14 +69,12 @@ hensive format, and providing individual level support to both struggling and in
 `,
 
 research:`
-<h1>Research</h1>
-
 <h2 style="text-align:center"><a href="https://escholarship.org/uc/item/4c3845t1#main">Dissertation</a></h2>
 
 <div class="columns">
     <div class="column">
-        <h3 style="text-align:center">Defense and Connectivity of Weakest-Link Networks</h2>
-        <p>
+        <h3 style="font-size:18px; text-align:center">Defense and Connectivity of Weakest-Link Networks</h2>
+        <p style="font-size:12px;">
             I study a model of weakest-link network defense. In this model, the defender
             determines the internal accessibility of a valuable asset and allocates defensive resources
             prior to an attacker’s decision to attack. In equilibrium, one of two resource allocations can
@@ -90,9 +88,9 @@ research:`
     </div>
 
     <div class="column">
-        <h3 style="text-align:center">An Experimental Study of Conjectural Equilibrium: Limited Feedback in a Threshold Public Good Game</h2>
-        <p style="text-align:center"><a href="https://osf.io/pbk6w/overview">Pre-registration, experiment software, and data analysis</a></p>
-        <p>
+        <h3 style="font-size:18px; text-align:center">An Experimental Study of Conjectural Equilibrium: Limited Feedback in a Threshold Public Good Game</h2>
+        <p style="font-size:12px; text-align:center"><a href="https://osf.io/pbk6w/overview">Pre-registration, experiment software, and data analysis</a></p>
+        <p style="font-size:12px;">
             We provide an experimental test of the Conjectural Equilibrium concept in a
             threshold public good game with limited feedback. Consistent with our predictions,
             strategy profiles that are Conjectural Equilibria but not Nash Equilibria are more
@@ -106,8 +104,8 @@ research:`
     </div>
 
     <div class="column">
-        <h3 style="text-align:center">Cybersecurity measures and incident frequency: Evidence from the UK</h2>
-        <p>
+        <h3 style="font-size:18px; text-align:center">Cybersecurity measures and incident frequency: Evidence from the UK</h2>
+        <p style="font-size:12px;">
             In this article, I empirically examine the relationship between organizations’ cybersecurity measures 
             and their experienced level of incident frequency. Cybersecurity is an increasingly relevant
             concern for governments, businesses, and individuals. However, despite both rising investment
