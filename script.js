@@ -24,34 +24,34 @@ research:`
 
 <h2>Dissertation</h2>
 
-// <div class="columns">
-//     <div class="column">
-//         <h2>Column 1</h2>
-//         <p>
-//             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
-//             tincidunt, mauris at posuere vulputate, nisl nunc aliquet tortor,
-//             sed vestibulum purus lectus sed est.
-//         </p>
-//     </div>
+<div class="columns">
+    <div class="column">
+        <h2>Column 1</h2>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
+            tincidunt, mauris at posuere vulputate, nisl nunc aliquet tortor,
+            sed vestibulum purus lectus sed est.
+        </p>
+    </div>
 
-//     <div class="column">
-//         <h2>Column 2</h2>
-//         <p>
-//             Curabitur vitae magna sed erat convallis faucibus. Donec sit amet
-//             lorem non nunc efficitur fermentum. Suspendisse potenti. Nulla
-//             facilisi.
-//         </p>
-//     </div>
+    <div class="column">
+        <h2>Column 2</h2>
+        <p>
+            Curabitur vitae magna sed erat convallis faucibus. Donec sit amet
+            lorem non nunc efficitur fermentum. Suspendisse potenti. Nulla
+            facilisi.
+        </p>
+    </div>
 
-//     <div class="column">
-//         <h2>Column 3</h2>
-//         <p>
-//             Phasellus commodo sapien vitae turpis vulputate, sed consequat
-//             ligula malesuada. Aenean hendrerit, ipsum non dictum luctus, velit
-//             urna consequat risus, vel pulvinar nibh orci eget urna.
-//         </p>
-//     </div>
-// </div>
+    <div class="column">
+        <h2>Column 3</h2>
+        <p>
+            Phasellus commodo sapien vitae turpis vulputate, sed consequat
+            ligula malesuada. Aenean hendrerit, ipsum non dictum luctus, velit
+            urna consequat risus, vel pulvinar nibh orci eget urna.
+        </p>
+    </div>
+</div>
 
 <br>
 
