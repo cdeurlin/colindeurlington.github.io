@@ -43,6 +43,7 @@ research:`
 
     <div class="column">
         <h3 style="text-align:center">An Experimental Study of Conjectural Equilibrium: Limited Feedback in a Threshold Public Good Game</h2>
+        <a href="https://osf.io/pbk6w/overview" style="text-align:center">Pre-registration, experiment software, and data analysis</a>
         <p>
             We provide an experimental test of the Conjectural Equilibrium concept in a
             threshold public good game with limited feedback. Consistent with our predictions,
@@ -54,7 +55,6 @@ research:`
             as a predictive concept. Overall, our findings support a measured approach to using
             the Conjectural Equilibrium concept to obtain predictions in limited-feedback settings.
         </p>
-        <a href="https://osf.io/pbk6w/overview">Pre-registration, experiment software, and data analysis</a>
     </div>
 
     <div class="column">
