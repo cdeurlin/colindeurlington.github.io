@@ -8,7 +8,7 @@ body{
 
 font-family:Inter,sans-serif;
 
-background:#f5f6f8;
+background:#7ba7cc;
 
 color:#222;
 
@@ -246,6 +246,34 @@ margin-bottom:18px;
 
 }
 
+
+/* ---------- research page stuff ---------- */
+.columns {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+  }
+
+  .column {
+      width: 33.33%;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      background-color: #f9f9f9;
+  }
+      
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+  @media (max-width: 768px) {
+      .columns {
+          grid-template-columns: 1fr;
+      }
+  }
+
 /* ---------- MOBILE ---------- */
 
 @media(max-width:900px){
@@ -285,33 +313,8 @@ flex-direction:column;
 height:auto;
 
 }
-
-/* ---------- research page stuff ---------- */
-.columns {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 20px;
-  }
-
-  .column {
-      width: 33.33%;
-      padding: 10px;
-      border: 1px solid #ccc;
-      border-radius: 8px;
-      background-color: #f9f9f9;
-  }
-      
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
+  
 }
-
-  @media (max-width: 768px) {
-      .columns {
-          grid-template-columns: 1fr;
-      }
-  }
   
 /* ---------- contact page stuff ---------- */
   /* form{
@@ -369,5 +372,3 @@ button:hover{
 background:#0b5ed7;
 
 } */
-  
-}
