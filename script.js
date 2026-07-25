@@ -100,7 +100,7 @@ teaching:`
 <li><b>Economics of Asymmetric Information</b> (UC Irvine ECON 107) &mdash Spring 2024</li>
 <li><b>Behavioral Economics</b> (UC Irvine ECON 115) &mdash Spring 2023</li>
 <li><b>Applied Econometrics I</b> (UC Irvine ECON 122A) &mdash Fall 2021, Fall 2023, Winter 2024</li>
-<li><b>Industrial Organization (UC Irvine ECON 142A) &mdash Winter 2021</li>
+<li><b>Industrial Organization</b> (UC Irvine ECON 142A) &mdash Winter 2021</li>
 <li><b>International Trade & Commercial Policy</b> (UC Irvine ECON 167) &mdash Summer II 2021</li>
 </ul>
 
