@@ -11,6 +11,11 @@ My primary research interests are in cyber security, international trade, experi
 </p>
 
 <p>
+Growing up near Lake Tahoe and spending my undergraduate years in San Luis Obispo means that outside of work and research, 
+you can find me doing any number of outdoor activities! 
+</p>
+
+<p>
 Please reach out with any questions!
 </p>
 
