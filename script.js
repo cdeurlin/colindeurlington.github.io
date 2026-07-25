@@ -18,6 +18,14 @@ home: `
 `
 ,
 
+work:`
+
+<h1>Work Experience</h1>
+
+<p>Lots of great work done by dis guy!</p>
+
+`,
+
 research:`
 
 <h1>Research</h1>
