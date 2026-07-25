@@ -28,9 +28,15 @@ research:`
     <div class="column">
         <h2>Defense and Connectivity of Weakest-Link Networks</h2>
         <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
-            tincidunt, mauris at posuere vulputate, nisl nunc aliquet tortor,
-            sed vestibulum purus lectus sed est.
+            I study a model of weakest-link network defense. In this model, the defender
+            determines the internal accessibility of a valuable asset and allocates defensive resources
+            prior to an attacker’s decision to attack. In equilibrium, one of two resource allocations can
+            arise: (1) both the defender and attacker allocate a strictly positive level of resources, or
+            (2) the defender allocates a sucient level of resources to deter attacks. As the defender’s
+            cost-adjusted valuation of an asset increases relative to the attacker, the defender is more
+            willing to increase the internal accessibility of the asset, irrespective of the marginal benefit
+            from increased accessibility. This model provides theoretical foundations for data breach
+            and other cybersecurity settings.
         </p>
     </div>
 
