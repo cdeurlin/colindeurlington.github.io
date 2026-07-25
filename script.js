@@ -1,7 +1,7 @@
 const pages = {
 
 home: `
-<h2>Welcome</h2>
+<h1>Welcome</h1>
 
 <p>
 Hello, thanks for dropping by my website!
@@ -23,6 +23,8 @@ Please reach out with any questions!
 ,
 
 work:`
+<h1>Work</h1>
+
 <h2 style="text-align:center">Office of Advanced Analytics, U.S. Government</h2>
 
 <p>Methodologist | Jan 2025 — Present</p>
@@ -67,6 +69,7 @@ hensive format, and providing individual level support to both struggling and in
 `,
 
 research:`
+<h1>Research</h1>
 
 <h2 style="text-align:center"><a href="https://escholarship.org/uc/item/4c3845t1#main">Dissertation</a></h2>
 
@@ -129,6 +132,7 @@ research:`
 `,
 
 teaching:`
+<h1>Teaching</h1>
 
 <h2 style="text-align:center">Teaching Assistant</h2>
 
