@@ -101,7 +101,7 @@ teaching:`
 
 <h2 style="text-align:center">Select Testimonials</h2>
 
-<p style="font-size: 12px;"><i>"He made the lecture material in his discussion very easily understandable and
+<p style="font-size: 10px;"><i>"He made the lecture material in his discussion very easily understandable and
 summarized. I think his powerpoints were very concise yet detailed to include
 main points from each chapter, and his explanations and examples in class were
 extremely helpful to understand in more simple terms. Colin was a great TA, very
@@ -111,7 +111,7 @@ how he made a separate Canvas space for his discussion sections to keep things
 organized in one space from the main Canvas course space. Keep it up and thank
 you so much Colin!"</i> <b>[Behavioral Economics]</b></p>
 
-<p style="font-size: 12px;"><i>"Colin did a great job of going more in-depth to what the professor was teaching and
+<p style="font-size: 10px;"><i>"Colin did a great job of going more in-depth to what the professor was teaching and
 made sure to go over important topics again. He did an amazing job breaking down
 concepts and his notes during the discussion were very easy to follow along with."</i> <b>[Applied Econometrics I]</b></p>
 
