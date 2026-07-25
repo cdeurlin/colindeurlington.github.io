@@ -239,9 +239,7 @@ please send me a message below.
 
 `
 
-};
-
-location.reload();  
+}; 
 
 const content = document.getElementById("content");
 
