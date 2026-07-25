@@ -314,7 +314,7 @@ height:auto;
   }
   
 /* ---------- contact page stuff ---------- */
-  form{
+  /* form{
 
 display:flex;
 flex-direction:column;
@@ -368,6 +368,6 @@ button:hover{
 
 background:#0b5ed7;
 
-}
+} */
   
 }
