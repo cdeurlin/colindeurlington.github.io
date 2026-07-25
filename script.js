@@ -10,6 +10,10 @@ Since graduating, I have been working as an economist for the US Government.
 My primary research interests are in cyber security, international trade, experimental design, and network analysis.
 </p>
 
+<p>
+Please reach out with any questions!
+</p>
+
 `
 ,
 
