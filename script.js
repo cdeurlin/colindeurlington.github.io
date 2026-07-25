@@ -99,13 +99,28 @@ teaching:`
 
 <br>
 
-<h3 style="text-align:center">Testimonials</h3>
+<h3 style="text-align:center">Select Testimonials</h3>
 <ul>
-// <li>"He reviewed the material of lecture in a format that was clear and easy to
-// comprehend and sometimes added further information/examples so we could
-// understand concepts better. He took the time to help us throughout the quarter
-// with our projects and provide us feedback every step of the way."</li>
-// <li>"style"</li>
+<li>"I wish he had more time available. Colin was one of the best TA's I ever had"</li>
+<li>"Colin was very good at explaining difficult concepts so that they were
+understandable. He would take his time. He was also open to constructive criticism
+and ideas for the discussion section."</li>
+<li>"He made the lecture material in his discussion very easily understandable and
+summarized. I think his powerpoints were very concise yet detailed to include
+main points from each chapter, and his explanations and examples in class were
+extremely helpful to understand in more simple terms. Colin was a great TA, very
+approachable, and honestly made this class one of my favorites because I felt
+confident in the course material after going to his weekly discussions. I also liked
+how he made a separate Canvas space for his discussion sections to keep things
+organized in one space from the main Canvas course space. Keep it up and thank
+you so much Colin!"</li>
+<li>"There is not much he can improve on in my opinion. He is very well spoken and
+knows what he is talking about. He prints out a few sheet of paper for him to look
+at which I assume is his personal notes so that when he is providing the visual aids
+he does not forget to mention anything. He also hears everybody's thoughts out and
+admits when he does not know the answer, but says he will look into it and get
+back to us, which he does."</li>
+<li>-----</li>
 <li>"The TA is willing to listen to the students' request about what we want to review for
 the final which I find is something that other TAs did not really do. He is really
 patient when it comes to explaining the concepts and he will make sure his
@@ -116,11 +131,6 @@ his discussion styles because he is able to review the concepts with students by
 talking about it one more time given that when students are listening to the lecture
 the first time, it can be really hard to understand what is going on. He is really
 thoughtful as a TA and on time on office hour which I really appreciate."</li>
-<li>"I really liked how the ta used other practice problems other than the ones that
-were presented in the lecture videos. The ta was also able to communicate clearly
-and gave good explanations to any questions we have via email or through the
-discussion videos. And sometimes he would include those questions into the
-discussion videos which helped explain the concepts more."</li>
 <li>"Colin did a great job of going more in-depth to what the professor was teaching and
 made sure to go over important topics again. He did an amazing job breaking down
 concepts and his notes during the discussion were very easy to follow along with."</li>
@@ -135,28 +145,9 @@ Professor Sarraf. He even goes as far as to provide visual aids in the form of
 drawings on the white board in the class room. This allowed us to visually see the
 point he is trying to get across and if anyone does not understand the drawing they
 can ask quesitons."</li>
-<li>"There is not much he can improve on in my opinion. He is very well spoken and
-knows what he is talking about. He prints out a few sheet of paper for him to look
-at which I assume is his personal notes so that when he is providing the visual aids
-he does not forget to mention anything. He also hears everybody's thoughts out and
-admits when he does not know the answer, but says he will look into it and get
-back to us, which he does."</li>
-<li>"He made the lecture material in his discussion very easily understandable and
-summarized. I think his powerpoints were very concise yet detailed to include
-main points from each chapter, and his explanations and examples in class were
-extremely helpful to understand in more simple terms. Colin was a great TA, very
-approachable, and honestly made this class one of my favorites because I felt
-confident in the course material after going to his weekly discussions. I also liked
-how he made a separate Canvas space for his discussion sections to keep things
-organized in one space from the main Canvas course space. Keep it up and thank
-you so much Colin!"</li>
-<li>"Colin was very good at explaining difficult concepts so that they were
-understandable. He would take his time. He was also open to constructive criticism
-and ideas for the discussion section."</li>
 <li>"One of the best TAs I've had. Even though the material covered was not new to me,
 I appreciated Colin's ability to slow down and take an in-depth approach to each
 chapter."</li>
-<li>"I wish he had more time available. Colin was one of the best TA's I ever had"</li>
 <li>"Colin explains material well which helps us know how to do the homework.
 Besides his discussion section, he is very responsive to students' emails and once
 made feedback about my answer to a question on the homework. His emails
