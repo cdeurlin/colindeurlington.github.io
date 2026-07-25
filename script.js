@@ -97,9 +97,9 @@ teaching:`
 <p><b>Industrial Organization</b> | UC Irvine ECON 142A | Winter 2021</p>
 <p><b>International Trade & Commercial Policy</b> | UC Irvine ECON 167 | Summer II 2021</p>
 
-<br>
-
 <h2 style="text-align:center">Select Testimonials</h2>
+
+<br>
 
 <p style="font-size: 10px;"><i>"He made the lecture material in his discussion very easily understandable and
 summarized. I think his powerpoints were very concise yet detailed to include
