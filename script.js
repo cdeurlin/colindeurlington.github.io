@@ -26,7 +26,7 @@ research:`
 
 <div class="columns">
     <div class="column">
-        <h2>Column 1</h2>
+        <h2>Defense and Connectivity of Weakest-Link Networks</h2>
         <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
             tincidunt, mauris at posuere vulputate, nisl nunc aliquet tortor,
@@ -35,16 +35,22 @@ research:`
     </div>
 
     <div class="column">
-        <h2>Column 2</h2>
+        <h2>An Experimental Study of Conjectural Equilibrium: Limited Feedback in a Threshold Public Good Game</h2>
         <p>
-            Curabitur vitae magna sed erat convallis faucibus. Donec sit amet
-            lorem non nunc efficitur fermentum. Suspendisse potenti. Nulla
-            facilisi.
+            We provide an experimental test of the Conjectural Equilibrium concept in a
+            threshold public good game with limited feedback. Consistent with our predictions,
+            strategy profiles that are Conjectural Equilibria but not Nash Equilibria are more
+            likely as feedback decreases, and subjects are more likely to hold incorrect beliefs
+            as feedback decreases. However, risk aversion interacts with the feedback treatment,
+            belief convergence occurs at different rates across treatments, and subjects intentionally
+            choose not to maximize payoffs, thus complicating the use of Conjectural Equilibrium
+            as a predictive concept. Overall, our findings support a measured approach to using
+            the Conjectural Equilibrium concept to obtain predictions in limited-feedback settings.
         </p>
     </div>
 
     <div class="column">
-        <h2>Column 3</h2>
+        <h2>Cybersecurity measures and incident frequency: Evidence from the UK</h2>
         <p>
             Phasellus commodo sapien vitae turpis vulputate, sed consequat
             ligula malesuada. Aenean hendrerit, ipsum non dictum luctus, velit
