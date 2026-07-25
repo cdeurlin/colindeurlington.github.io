@@ -84,7 +84,7 @@ research:`
 
 <h2>Other Papers</h2>
 
-<p>Title of Paper</p>
+<p>C. Deurlington, E. Fisher, “Dynamic Level-k Thinking in the El Farol Bar Problem” (Working Paper)</p>
 
 `,
 
@@ -241,6 +241,8 @@ please send me a message below.
 
 };
 
+location.reload();  
+
 const content = document.getElementById("content");
 
 content.innerHTML = pages.home;
@@ -283,8 +285,6 @@ document
 
         this.reset();
 
-    };
-
-  location.reload();  
+    }
 
 });
