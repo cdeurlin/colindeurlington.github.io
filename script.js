@@ -182,7 +182,7 @@ the lectures of our professor. He also outlines what is expected during the
 discussion session, giving us the amount of time he will be discussing, the amount
 of time for questions, and the amount of time for group collaboration."</i> <b>[Economics of Religion]</b></p>
 
-<p style="text-align:center">Full course evaluations available upon request. Check.</p>
+<p style="text-align:center">Full course evaluations available upon request.</p>
 
 `
 
