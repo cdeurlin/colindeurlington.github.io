@@ -49,7 +49,7 @@ Internally published an article summarizing this analysis.</li>
 
 <h2 style="text-align:center">University of California, Irvine</h2>
 
-<p>Junior Specialist | ? — Present</p>
+<p>Junior Specialist | Sep 2024 — Present</p>
 
 <p>Teaching Assistant | Oct 2020 — Jun 2024</p>
 <ul style="font-size: 12px;">
@@ -57,12 +57,11 @@ Internally published an article summarizing this analysis.</li>
 hensive format, and providing individual level support to both struggling and interested students.</li>
 </ul>
 
-<p>Verano Residents’ Council Treasurer | ? — ?</p>
+<p>Verano Residents’ Council Treasurer | Jul 2023 — Jun 2024</p>
 
 <h2 style="text-align:center">Other</h2>
 
 <p><b>Farm Credit Administration</b> | Associate Examiner Intern</p>
-<p><b>35th State Assembly District of California</b> | Legislative Intern</p>
 <p><b>Town of Truckee</b> | Accounting Intern</p>
 <p><b>Tahoe Donner Association</b> | Cross-Country Ski Instructor, Lifeguard</p>
 
