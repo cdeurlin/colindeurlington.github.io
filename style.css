@@ -283,8 +283,6 @@ aside{
 
 position:relative;
 
-bottom:0px;
-
 width:100%;
 
 height:auto;
@@ -303,7 +301,7 @@ main{
 
 margin-left:0;
 
-padding:15px;
+padding:50px;
 
 flex-direction:column;
   
