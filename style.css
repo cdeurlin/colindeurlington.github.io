@@ -28,8 +28,11 @@ right:0;
 
 height:70px;
 
-background:#3f75a2;
+/* background:#3f75a2; */
+background:#203b51;
 
+color:white;
+  
 display:flex;
 
 align-items:center;
@@ -72,13 +75,13 @@ padding:8px 12px;
 
 transition:.25s;
 
-color:#7ba7cc;
+color:white;
 
 }
 
 .nav-btn:hover{
 
-color:#7ba7cc;
+color:white;
 
 }
 
