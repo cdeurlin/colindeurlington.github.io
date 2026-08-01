@@ -114,7 +114,7 @@ research:`
 <h2 style="text-align:center">Other Working Papers</h2>
 
 <p>C. Deurlington, E. Fisher, “Dynamic Level-k Thinking in the El Farol Bar Problem”</p>
-<p style="font-size:12px; margin-left:10%;"><i>The El Farol Bar problem is a classic N-person anti-coordination game. Patrons indepen-
+<p style="font-size:12px; margin-left:5%;"><i>The El Farol Bar problem is a classic N-person anti-coordination game. Patrons indepen-
 dently decide whether to attend a venue with limited capacity; if too many arrive, each would
 prefer to have stayed home. We study a dynamic model of level-k thinking in which agents
 may randomly become one level more sophisticated over time. Short-run behavior depends on
@@ -122,7 +122,7 @@ the rate at which agents upgrade their reasoning. In the long run, attendance is
 by a binomial distribution with mean N/2, independent of preference parameters. We extend
 the analysis to a model of cognitive hierarchy and show that convergence to the mixed-strategy
 equilibrium occurs only on a set of initial conditions of measure zero.</i></p>
-<p style="font-size:12px; margin-left:10%;"><a href="https://cdeurlington.shinyapps.io/El_Farol_Trial/">Supporting application<a> (developed during Undergraduate Thesis)</p>
+<p style="font-size:12px; margin-left:5%;"><a href="https://cdeurlington.shinyapps.io/El_Farol_Trial/">Supporting application<a> (developed during Undergraduate Thesis)</p>
 
 `,
 
