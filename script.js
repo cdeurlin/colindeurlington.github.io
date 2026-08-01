@@ -57,7 +57,7 @@ research:`
         <br>
         <hr style="margin-left:12.5%; width:75%;">
         <br>
-        <p style="font-size:12px; text-align:center">
+        <p style="font-size:12px; text-align:center; width:95%;">
             <i>I study a model of weakest-link network defense. In this model, the defender
             determines the internal accessibility of a valuable asset and allocates defensive resources
             prior to an attacker’s decision to attack. In equilibrium, one of two resource allocations can
@@ -75,7 +75,7 @@ research:`
         <br>
         <hr style="margin-left:12.5%; width:75%;">
         <br>
-        <p style="font-size:12px; text-align:center">
+        <p style="font-size:12px; text-align:center; width:95%;">
             <i>We provide an experimental test of the Conjectural Equilibrium concept in a
             threshold public good game with limited feedback. Consistent with our predictions,
             strategy profiles that are Conjectural Equilibria but not Nash Equilibria are more
@@ -94,7 +94,7 @@ research:`
         <br>
         <hr style="margin-left:12.5%; width:75%;">
         <br>
-        <p style="font-size:12px; text-align:center">
+        <p style="font-size:12px; text-align:center; width:95%;">
             <i>In this article, I empirically examine the relationship between organizations’ cybersecurity measures 
             and their experienced level of incident frequency. Cybersecurity is an increasingly relevant
             concern for governments, businesses, and individuals. However, despite both rising investment
