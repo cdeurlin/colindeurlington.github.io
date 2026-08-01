@@ -8,7 +8,7 @@ Hello, thanks for dropping by my website!
 I received my Economics PhD from the University of California, Irvine in 2024, with concentrations in Political Economy, Experimental Economics, and Game Theory. 
 Since graduating, I have been working as a methodologist for the US Government. 
 My primary research interests are in cyber security, international trade, experimental design, and network analysis.
-However, give me an interesting coding puzzle or a cool dataset with an interesting question, and I'll be happy!
+However, give me a new dataset with an interesting research question, and I'll be happy!
 </p>
 
 <p>
