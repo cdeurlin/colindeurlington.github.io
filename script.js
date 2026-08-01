@@ -73,7 +73,7 @@ research:`
     <div class="column">
         <h3 style="font-size:18px; text-align:center">Defense and Connectivity of Weakest-Link Networks</h2>
         <br>
-        <hr style="width:75%;">
+        <hr style="text-align:center; width:75%;">
         <br>
         <p style="font-size:12px; text-align:center">
             I study a model of weakest-link network defense. In this model, the defender
@@ -91,7 +91,7 @@ research:`
     <div class="column">
         <h3 style="font-size:18px; text-align:center">An Experimental Study of Conjectural Equilibrium: Limited Feedback in a Threshold Public Good Game</h2>
         <br>
-        <hr style="width:75%;">
+        <hr style="text-align:center; width:75%;">
         <br>
         <p style="font-size:12px; text-align:center">
             We provide an experimental test of the Conjectural Equilibrium concept in a
@@ -110,7 +110,7 @@ research:`
     <div class="column">
         <h3 style="font-size:18px; text-align:center">Cybersecurity Measures and Incident Frequency: Evidence from the UK</h2>
         <br>
-        <hr style="width:75%;">
+        <hr style="text-align:center; width:75%;">
         <br>
         <p style="font-size:12px; text-align:center">
             In this article, I empirically examine the relationship between organizations’ cybersecurity measures 
