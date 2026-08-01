@@ -256,14 +256,14 @@ margin-bottom:10px;
 .columns {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
-      gap: 2px;
+      gap: 5px;
   }
 
   .column {
       padding: 2px;
       border: 1px solid #ccc;
       border-radius: 8px;
-      background-color: #D7C6B1;
+      background-color: #e5e4e2;
   }
       
 /* .row:after {
