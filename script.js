@@ -13,7 +13,7 @@ However, give me a new dataset with an interesting research question, and I'll b
 
 <p>
 Growing up near Lake Tahoe and spending my undergraduate years in San Luis Obispo means that outside of work and research, 
-you can find me doing any number of outdoor activities! 
+you can find me cycling, running, or enjoying the great outdoors! 
 </p>
 
 <p>
