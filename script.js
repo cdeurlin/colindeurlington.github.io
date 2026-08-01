@@ -26,7 +26,7 @@ Please reach out with any questions!
 work:`
 <h2 style="text-align:center">Office of Advanced Analytics, U.S. Government</h2>
 
-<p>Methodologist | Jan 2025 — Present</p>
+<p>Methodologist &#9672 Jan 2025 — Present</p>
 <ul style="font-size: 12px;">
 <li>Work with a wide range of partners to develop rigorous methodologies and models that derive
 data-driven insights for their specific problems.</li>
@@ -38,7 +38,7 @@ providing data and coding support, and editing their written products into clear
 for policy makers.</li>
 </ul>
 
-<p>Analytic Fellow | Jun 2023 — Sep 2023</p>
+<p>Analytic Fellow &#9672 Jun 2023 — Sep 2023</p>
 <ul style="font-size: 12px;">
 <li>Applied network analysis and clustering algorithms to a dataset of two million dyadic relationships.
 Internally published an article summarizing this analysis.</li>
@@ -48,21 +48,21 @@ Internally published an article summarizing this analysis.</li>
 
 <h2 style="text-align:center">University of California, Irvine</h2>
 
-<p>Junior Specialist | Sep 2024 — Present</p>
+<p>Junior Specialist &#9672 Sep 2024 — Present</p>
 
-<p>Teaching Assistant | Oct 2020 — Jun 2024</p>
+<p>Teaching Assistant &#9672 Oct 2020 — Jun 2024</p>
 <ul style="font-size: 12px;">
 <li>Developing lesson plans for discussion sections, presenting difficult material in a clear and compre-
 hensive format, and providing individual level support to both struggling and interested students.</li>
 </ul>
 
-<p>Verano Residents’ Council Treasurer | Jul 2023 — Jun 2024</p>
+<p>Verano Residents’ Council Treasurer &#9672 Jul 2023 — Jun 2024</p>
 
 <h2 style="text-align:center">Other</h2>
 
-<p><b>Farm Credit Administration</b> | Associate Examiner Intern</p>
-<p><b>Town of Truckee</b> | Accounting Intern</p>
-<p><b>Tahoe Donner Association</b> | Cross-Country Ski Instructor, Lifeguard</p>
+<p><b>Farm Credit Administration</b> &#9672 Associate Examiner Intern</p>
+<p><b>Town of Truckee</b> &#9672 Accounting Intern</p>
+<p><b>Tahoe Donner Association</b> &#9672 Cross-Country Ski Instructor, Lifeguard</p>
 
 `,
 
