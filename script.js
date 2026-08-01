@@ -24,8 +24,6 @@ Please reach out with any questions!
 ,
 
 work:`
-<h1>Work</h1>
-
 <h2 style="text-align:center">Office of Advanced Analytics, U.S. Government</h2>
 
 <p>Methodologist | Jan 2025 — Present</p>
@@ -75,6 +73,8 @@ research:`
     <div class="column">
         <h3 style="font-size:18px; text-align:center">Defense and Connectivity of Weakest-Link Networks</h2>
         <br>
+        <hr style="width:75%;">
+        <br>
         <p style="font-size:12px; text-align:center">
             I study a model of weakest-link network defense. In this model, the defender
             determines the internal accessibility of a valuable asset and allocates defensive resources
@@ -91,6 +91,8 @@ research:`
     <div class="column">
         <h3 style="font-size:18px; text-align:center">An Experimental Study of Conjectural Equilibrium: Limited Feedback in a Threshold Public Good Game</h2>
         <br>
+        <hr style="width:75%;">
+        <br>
         <p style="font-size:12px; text-align:center">
             We provide an experimental test of the Conjectural Equilibrium concept in a
             threshold public good game with limited feedback. Consistent with our predictions,
@@ -106,7 +108,9 @@ research:`
     </div>
 
     <div class="column">
-        <h3 style="font-size:18px; text-align:center">Cybersecurity measures and incident frequency: Evidence from the UK</h2>
+        <h3 style="font-size:18px; text-align:center">Cybersecurity Measures and Incident Frequency: Evidence from the UK</h2>
+        <br>
+        <hr style="width:75%;">
         <br>
         <p style="font-size:12px; text-align:center">
             In this article, I empirically examine the relationship between organizations’ cybersecurity measures 
@@ -133,11 +137,7 @@ research:`
 `,
 
 teaching:`
-<h1>Teaching</h1>
-
 <h2 style="text-align:center">Teaching Assistant</h2>
-
-<br>
 
 <p><b>Global Economy</b> | UC Irvine ECON 13 | Spring 2021, Spring 2022, Winter 2023</p>
 <p><b>Economics of Religion</b> | UC Irvine ECON 17 | Fall 2020, Winter 2022, Fall 2022</p>
@@ -147,9 +147,9 @@ teaching:`
 <p><b>Industrial Organization</b> | UC Irvine ECON 142A | Winter 2021</p>
 <p><b>International Trade & Commercial Policy</b> | UC Irvine ECON 167 | Summer II 2021</p>
 
-<h2 style="text-align:center">Select Testimonials</h2>
-
 <br>
+
+<h2 style="text-align:center">Select Testimonials</h2>
 
 <p style="font-size: 10px;"><i>"He made the lecture material in his discussion very easily understandable and
 summarized. I think his powerpoints were very concise yet detailed to include
