@@ -263,7 +263,8 @@ margin-bottom:10px;
       padding: 2px;
       border: 1px solid #ccc;
       border-radius: 8px;
-      background-color: #dfeaf3;
+      background-color: #3f75a2;
+      color: white;
   }
       
 /* .row:after {
