@@ -55,7 +55,6 @@ research:`
     <div class="column">
         <h3 style="font-size:18px; text-align:center">Defense and Connectivity of Weakest-Link Networks</h2>
         <p style="font-size:12px; text-align:center;">C. Deurlington</p>
-        <br>
         <hr style="margin-left:12.5%; width:75%;">
         <br>
         <p style="font-size:12px; text-align:center; width:95%;">
@@ -74,7 +73,6 @@ research:`
     <div class="column">
         <h3 style="font-size:18px; text-align:center">An Experimental Study of Conjectural Equilibrium: Limited Feedback in a Threshold Public Good Game</h2>
         <p style="font-size:12px; text-align:center;">M. McBride, C. Deurlington</p>
-        <br>
         <hr style="margin-left:12.5%; width:75%;">
         <br>
         <p style="font-size:12px; text-align:center; width:95%;">
@@ -94,7 +92,6 @@ research:`
     <div class="column">
         <h3 style="font-size:18px; text-align:center">Cybersecurity Measures and Incident Frequency: Evidence from the UK</h2>
         <p style="font-size:12px; text-align:center;">C. Deurlington</p>
-        <br>
         <hr style="margin-left:12.5%; width:75%;">
         <br>
         <p style="font-size:12px; text-align:center; width:95%;">
