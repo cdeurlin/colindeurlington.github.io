@@ -27,22 +27,8 @@ work:`
 <h2 style="text-align:center">Office of Advanced Analytics, U.S. Government</h2>
 
 <p>Methodologist &#9672 Jan 2025 — Present</p>
-<ul style="font-size: 12px;">
-<li>Work with a wide range of partners to develop rigorous methodologies and models that derive
-data-driven insights for their specific problems.</li>
-<li>Internally published multiple self-initiated research papers on a wide-range of topics. These papers
-entailed advanced modeling and data analysis, and involved using big data, network analysis, and
-time series econometrics.</li>
-<li>Involved in mentoring graduate fellows, including helping to define and scope research questions,
-providing data and coding support, and editing their written products into clear and concise analysis
-for policy makers.</li>
-</ul>
 
 <p>Analytic Fellow &#9672 Jun 2023 — Sep 2023</p>
-<ul style="font-size: 12px;">
-<li>Applied network analysis and clustering algorithms to a dataset of two million dyadic relationships.
-Internally published an article summarizing this analysis.</li>
-</ul>
 
 <br>
 
@@ -51,10 +37,6 @@ Internally published an article summarizing this analysis.</li>
 <p>Junior Specialist &#9672 Sep 2024 — Present</p>
 
 <p>Teaching Assistant &#9672 Oct 2020 — Jun 2024</p>
-<ul style="font-size: 12px;">
-<li>Developing lesson plans for discussion sections, presenting difficult material in a clear and compre-
-hensive format, and providing individual level support to both struggling and interested students.</li>
-</ul>
 
 <p>Verano Residents’ Council Treasurer &#9672 Jul 2023 — Jun 2024</p>
 
