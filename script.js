@@ -73,7 +73,7 @@ research:`
     <div class="column">
         <h3 style="font-size:18px; text-align:center">Defense and Connectivity of Weakest-Link Networks</h2>
         <br>
-        <hr style="text-align:center; width:75%;">
+        <hr style="margin-left:12.5%; width:75%;">
         <br>
         <p style="font-size:12px; text-align:center">
             I study a model of weakest-link network defense. In this model, the defender
@@ -91,7 +91,7 @@ research:`
     <div class="column">
         <h3 style="font-size:18px; text-align:center">An Experimental Study of Conjectural Equilibrium: Limited Feedback in a Threshold Public Good Game</h2>
         <br>
-        <hr style="text-align:center; width:75%;">
+        <hr style="margin-left:12.5%; width:75%;">
         <br>
         <p style="font-size:12px; text-align:center">
             We provide an experimental test of the Conjectural Equilibrium concept in a
@@ -110,7 +110,7 @@ research:`
     <div class="column">
         <h3 style="font-size:18px; text-align:center">Cybersecurity Measures and Incident Frequency: Evidence from the UK</h2>
         <br>
-        <hr style="text-align:center; width:75%;">
+        <hr style="margin-left:12.5%; width:75%;">
         <br>
         <p style="font-size:12px; text-align:center">
             In this article, I empirically examine the relationship between organizations’ cybersecurity measures 
@@ -139,13 +139,13 @@ research:`
 teaching:`
 <h2 style="text-align:center">Teaching Assistant</h2>
 
-<p><b>Global Economy</b> | UC Irvine ECON 13 | Spring 2021, Spring 2022, Winter 2023</p>
-<p><b>Economics of Religion</b> | UC Irvine ECON 17 | Fall 2020, Winter 2022, Fall 2022</p>
-<p><b>Economics of Asymmetric Information</b> | UC Irvine ECON 107 | Spring 2024</p>
-<p><b>Behavioral Economics</b> | UC Irvine ECON 115 | Spring 2023</p>
-<p><b>Applied Econometrics I</b> | UC Irvine ECON 122A | Fall 2021, Fall 2023, Winter 2024</p>
-<p><b>Industrial Organization</b> | UC Irvine ECON 142A | Winter 2021</p>
-<p><b>International Trade & Commercial Policy</b> | UC Irvine ECON 167 | Summer II 2021</p>
+<p><b>Global Economy</b> &#9672 UC Irvine ECON 13 &#9672 Spring 2021, Spring 2022, Winter 2023</p>
+<p><b>Economics of Religion</b> &#9672 UC Irvine ECON 17 &#9672 Fall 2020, Winter 2022, Fall 2022</p>
+<p><b>Economics of Asymmetric Information</b> &#9672 UC Irvine ECON 107 &#9672 Spring 2024</p>
+<p><b>Behavioral Economics</b> &#9672 UC Irvine ECON 115 &#9672 Spring 2023</p>
+<p><b>Applied Econometrics I</b> &#9672 UC Irvine ECON 122A &#9672 Fall 2021, Fall 2023, Winter 2024</p>
+<p><b>Industrial Organization</b> &#9672 UC Irvine ECON 142A &#9672 Winter 2021</p>
+<p><b>International Trade & Commercial Policy</b> &#9672 UC Irvine ECON 167 &#9672 Summer II 2021</p>
 
 <br>
 
