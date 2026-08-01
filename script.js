@@ -58,7 +58,7 @@ research:`
         <hr style="margin-left:12.5%; width:75%;">
         <br>
         <p style="font-size:12px; text-align:center">
-            I study a model of weakest-link network defense. In this model, the defender
+            <i>I study a model of weakest-link network defense. In this model, the defender
             determines the internal accessibility of a valuable asset and allocates defensive resources
             prior to an attacker’s decision to attack. In equilibrium, one of two resource allocations can
             arise: (1) both the defender and attacker allocate a strictly positive level of resources, or
@@ -66,7 +66,7 @@ research:`
             cost-adjusted valuation of an asset increases relative to the attacker, the defender is more
             willing to increase the internal accessibility of the asset, irrespective of the marginal benefit
             from increased accessibility. This model provides theoretical foundations for data breach
-            and other cybersecurity settings.
+            and other cybersecurity settings.</i>
         </p>
     </div>
 
@@ -76,7 +76,7 @@ research:`
         <hr style="margin-left:12.5%; width:75%;">
         <br>
         <p style="font-size:12px; text-align:center">
-            We provide an experimental test of the Conjectural Equilibrium concept in a
+            <i>We provide an experimental test of the Conjectural Equilibrium concept in a
             threshold public good game with limited feedback. Consistent with our predictions,
             strategy profiles that are Conjectural Equilibria but not Nash Equilibria are more
             likely as feedback decreases, and subjects are more likely to hold incorrect beliefs
@@ -84,7 +84,7 @@ research:`
             belief convergence occurs at different rates across treatments, and subjects intentionally
             choose not to maximize payoffs, thus complicating the use of Conjectural Equilibrium
             as a predictive concept. Overall, our findings support a measured approach to using
-            the Conjectural Equilibrium concept to obtain predictions in limited-feedback settings.
+            the Conjectural Equilibrium concept to obtain predictions in limited-feedback settings.</i>
         </p>
         <p style="font-size:12px; text-align:center"><a href="https://osf.io/pbk6w/overview">Pre-registration, experiment software, and data analysis</a></p>
     </div>
@@ -95,7 +95,7 @@ research:`
         <hr style="margin-left:12.5%; width:75%;">
         <br>
         <p style="font-size:12px; text-align:center">
-            In this article, I empirically examine the relationship between organizations’ cybersecurity measures 
+            <i>In this article, I empirically examine the relationship between organizations’ cybersecurity measures 
             and their experienced level of incident frequency. Cybersecurity is an increasingly relevant
             concern for governments, businesses, and individuals. However, despite both rising investment
             in cybersecurity and frequency of cyber incidents, little research has been done to assess this
@@ -104,7 +104,7 @@ research:`
             personal devices used for work as measures associated with reduced incident frequency.
             Furthermore, this paper provides a foundational assessment of how cybersecurity measures
             are associated differently with phishing versus non-phishing incidents, providing a first step
-            in understanding the usefulness of measures in preventing incidents of different severities.
+            in understanding the usefulness of measures in preventing incidents of different severities.</i>
         </p>
     </div>
 </div>
