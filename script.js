@@ -17,7 +17,7 @@ you can find me cycling, running, or enjoying the great outdoors!
 </p>
 
 <p>
-Please reach out with any questions!
+Please reach out with any questions.
 </p>
 
 `
